@@ -1,0 +1,12 @@
+nav li {
+  text-decoration: underline;
+}
+nav li {
+  list-style: none;
+  display: inline;
+  margin: 30px auto;
+
+}
+nav:hover{ 
+    background-color: aqua;
+} 
